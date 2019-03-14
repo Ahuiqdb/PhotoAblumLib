@@ -1,0 +1,4 @@
+#Thu Mar 14 14:55:42 CST 2019
+base.0=D\:\\AndroidSTOWork\\PhotoAblumLib\\PhotoAblumLib\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
