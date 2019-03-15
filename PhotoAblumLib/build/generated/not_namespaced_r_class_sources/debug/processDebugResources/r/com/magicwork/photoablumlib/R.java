@@ -8,64 +8,155 @@
 package com.magicwork.photoablumlib;
 
 public final class R {
+  public static final class anim {
+    public static final int bottom_in=0x7f010000;
+    public static final int bottom_out=0x7f010001;
+    public static final int left_in=0x7f010002;
+    public static final int left_out=0x7f010003;
+    public static final int right_in=0x7f010004;
+    public static final int right_out=0x7f010005;
+  }
+  public static final class attr {
+    /**
+     * <p>May be a dimension value, which is a floating point number appended with a
+     * unit such as "<code>14.5sp</code>".
+     * Available units are: px (pixels), dp (density-independent pixels),
+     * sp (scaled pixels based on preferred font size), in (inches), and
+     * mm (millimeters).
+     */
+    public static final int radius=0x7f020000;
+    /**
+     * <p>Must be one of the following constant values.</p>
+     * <table>
+     * <colgroup align="left" />
+     * <colgroup align="left" />
+     * <colgroup align="left" />
+     * <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
+     * <tr><td>circle</td><td>1</td><td></td></tr>
+     * <tr><td>round</td><td>2</td><td></td></tr>
+     * </table>
+     */
+    public static final int type=0x7f020001;
+  }
   public static final class dimen {
-    public static final int activity_horizontal_margin=0x7f010000;
-    public static final int activity_vertical_margin=0x7f010001;
+    public static final int activity_horizontal_margin=0x7f030000;
+    public static final int activity_vertical_margin=0x7f030001;
   }
   public static final class drawable {
-    public static final int bg_btn_arrow_selector1=0x7f020000;
-    public static final int bg_btn_normal1=0x7f020001;
-    public static final int bg_btn_selected1=0x7f020002;
-    public static final int bg_btn_selector1=0x7f020003;
-    public static final int checkbox_btn_selector1=0x7f020004;
-    public static final int compose_photo_photograph=0x7f020005;
-    public static final int compose_photograph=0x7f020006;
-    public static final int ic_launcher=0x7f020007;
-    public static final int ic_launcher1=0x7f020008;
-    public static final int img_empty=0x7f020009;
-    public static final int navigationbar_arrow_down=0x7f02000a;
-    public static final int navigationbar_arrow_up=0x7f02000b;
-    public static final int photo_check_default=0x7f02000c;
-    public static final int photo_check_selected=0x7f02000d;
-    public static final int picker_photo_filter_checked=0x7f02000e;
+    public static final int bg_btn_arrow_selector1=0x7f040000;
+    public static final int bg_btn_normal1=0x7f040001;
+    public static final int bg_btn_selected1=0x7f040002;
+    public static final int bg_btn_selector1=0x7f040003;
+    public static final int checkbox_btn_selector1=0x7f040004;
+    public static final int compose_photo_photograph=0x7f040005;
+    public static final int compose_photograph=0x7f040006;
+    public static final int ic_launcher=0x7f040007;
+    public static final int ic_launcher1=0x7f040008;
+    public static final int icon_takephoto=0x7f040009;
+    public static final int img_empty=0x7f04000a;
+    public static final int navigationbar_arrow_down=0x7f04000b;
+    public static final int navigationbar_arrow_up=0x7f04000c;
+    public static final int photo_check_default=0x7f04000d;
+    public static final int photo_check_selected=0x7f04000e;
+    public static final int picker_photo_filter_checked=0x7f04000f;
   }
   public static final class id {
-    public static final int btn_choose_photo=0x7f030000;
-    public static final int btn_choose_vedio=0x7f030001;
-    public static final int btn_next=0x7f030002;
-    public static final int ch_photo_select=0x7f030003;
-    public static final int ch_switcher_isSelected=0x7f030004;
-    public static final int gv_photos=0x7f030005;
-    public static final int img_dir_dot=0x7f030006;
-    public static final int img_dir_header=0x7f030007;
-    public static final int img_photo=0x7f030008;
-    public static final int img_switcher_image=0x7f030009;
-    public static final int lv_img_dir=0x7f03000a;
-    public static final int ly_dir=0x7f03000b;
-    public static final int ly_img_switcher=0x7f03000c;
-    public static final int ly_top_bar=0x7f03000d;
-    public static final int tv_currentPage=0x7f03000e;
-    public static final int tv_dir_title=0x7f03000f;
-    public static final int tv_top_bar_title=0x7f030010;
-    public static final int viewPager_image_switcher=0x7f030011;
+    public static final int btn=0x7f050000;
+    public static final int btn_camera=0x7f050001;
+    public static final int btn_choose_photo=0x7f050002;
+    public static final int btn_choose_vedio=0x7f050003;
+    public static final int btn_next=0x7f050004;
+    public static final int ch_photo_select=0x7f050005;
+    public static final int ch_switcher_isSelected=0x7f050006;
+    public static final int circle=0x7f050007;
+    public static final int gv_photos=0x7f050008;
+    public static final int img_dir_dot=0x7f050009;
+    public static final int img_dir_header=0x7f05000a;
+    public static final int img_photo=0x7f05000b;
+    public static final int img_switcher_image=0x7f05000c;
+    public static final int iv=0x7f05000d;
+    public static final int lv_img_dir=0x7f05000e;
+    public static final int ly_dir=0x7f05000f;
+    public static final int ly_img_switcher=0x7f050010;
+    public static final int ly_top_bar=0x7f050011;
+    public static final int round=0x7f050012;
+    public static final int selector_list=0x7f050013;
+    public static final int tv=0x7f050014;
+    public static final int tv_currentPage=0x7f050015;
+    public static final int tv_dir_title=0x7f050016;
+    public static final int tv_top_bar_title=0x7f050017;
+    public static final int viewPager_image_switcher=0x7f050018;
   }
   public static final class layout {
-    public static final int actitvity_demo=0x7f040000;
-    public static final int activity_image_switcher=0x7f040001;
-    public static final int activity_photo_selector=0x7f040002;
-    public static final int fragment_image_switcher=0x7f040003;
-    public static final int grid_item_photo=0x7f040004;
-    public static final int item_image_switcher=0x7f040005;
-    public static final int list_item_dir_pop_window=0x7f040006;
-    public static final int popwindow_img_dir=0x7f040007;
+    public static final int actitvity_demo=0x7f060000;
+    public static final int activity_image_switcher=0x7f060001;
+    public static final int activity_main=0x7f060002;
+    public static final int activity_photo_selector=0x7f060003;
+    public static final int fragment_image_switcher=0x7f060004;
+    public static final int grid_item_photo=0x7f060005;
+    public static final int item_image_switcher=0x7f060006;
+    public static final int list_item_dir_pop_window=0x7f060007;
+    public static final int popupwindow_selector=0x7f060008;
+    public static final int popwindow_img_dir=0x7f060009;
   }
   public static final class string {
-    public static final int action_settings=0x7f050000;
-    public static final int app_name=0x7f050001;
-    public static final int hello_world=0x7f050002;
+    public static final int action_settings=0x7f070000;
+    public static final int app_name=0x7f070001;
+    public static final int hello_world=0x7f070002;
   }
   public static final class style {
-    public static final int AppBaseTheme=0x7f060000;
-    public static final int AppTheme=0x7f060001;
+    public static final int AppBaseTheme=0x7f080000;
+    public static final int AppTheme=0x7f080001;
+    public static final int Theme_No_Frame=0x7f080002;
+    public static final int popwin_anim_bottom_style=0x7f080003;
+    public static final int popwin_anim_style=0x7f080004;
+  }
+  public static final class styleable {
+    /**
+     * Attributes that can be used with a RoundImageView.
+     * <p>Includes the following attributes:</p>
+     * <table>
+     * <colgroup align="left" />
+     * <colgroup align="left" />
+     * <tr><th>Attribute</th><th>Description</th></tr>
+     * <tr><td><code>{@link #RoundImageView_radius com.magicwork.photoablumlib:radius}</code></td><td></td></tr>
+     * <tr><td><code>{@link #RoundImageView_type com.magicwork.photoablumlib:type}</code></td><td></td></tr>
+     * </table>
+     * @see #RoundImageView_radius
+     * @see #RoundImageView_type
+     */
+    public static final int[] RoundImageView={
+      0x7f020000, 0x7f020001
+    };
+    /**
+     * <p>This symbol is the offset where the {@link com.magicwork.photoablumlib.R.attr#radius}
+     * attribute's value can be found in the {@link #RoundImageView} array.
+     *
+     * <p>May be a dimension value, which is a floating point number appended with a
+     * unit such as "<code>14.5sp</code>".
+     * Available units are: px (pixels), dp (density-independent pixels),
+     * sp (scaled pixels based on preferred font size), in (inches), and
+     * mm (millimeters).
+     *
+     * @attr name com.magicwork.photoablumlib:radius
+     */
+    public static final int RoundImageView_radius=0;
+    /**
+     * <p>This symbol is the offset where the {@link com.magicwork.photoablumlib.R.attr#type}
+     * attribute's value can be found in the {@link #RoundImageView} array.
+     *
+     * <p>Must be one of the following constant values.</p>
+     * <table>
+     * <colgroup align="left" />
+     * <colgroup align="left" />
+     * <colgroup align="left" />
+     * <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
+     * <tr><td>circle</td><td>1</td><td></td></tr>
+     * <tr><td>round</td><td>2</td><td></td></tr>
+     * </table>
+     *
+     * @attr name com.magicwork.photoablumlib:type
+     */
+    public static final int RoundImageView_type=1;
   }
 }

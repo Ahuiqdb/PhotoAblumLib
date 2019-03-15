@@ -1,5 +1,9 @@
 [
     {
+        "merged": "D:\\AndroidSTOWork\\PhotoAblumLib\\PhotoAblumLib\\build\\intermediates\\res\\merged\\debug\\anim_right_out.xml.flat",
+        "source": "D:\\AndroidSTOWork\\PhotoAblumLib\\PhotoAblumLib\\src\\main\\res\\anim\\right_out.xml"
+    },
+    {
         "merged": "D:\\AndroidSTOWork\\PhotoAblumLib\\PhotoAblumLib\\build\\intermediates\\res\\merged\\debug\\layout_activity_image_switcher.xml.flat",
         "source": "D:\\AndroidSTOWork\\PhotoAblumLib\\PhotoAblumLib\\src\\main\\res\\layout\\activity_image_switcher.xml"
     },
@@ -14,6 +18,10 @@
     {
         "merged": "D:\\AndroidSTOWork\\PhotoAblumLib\\PhotoAblumLib\\build\\intermediates\\res\\merged\\debug\\layout_grid_item_photo.xml.flat",
         "source": "D:\\AndroidSTOWork\\PhotoAblumLib\\PhotoAblumLib\\src\\main\\res\\layout\\grid_item_photo.xml"
+    },
+    {
+        "merged": "D:\\AndroidSTOWork\\PhotoAblumLib\\PhotoAblumLib\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "D:\\AndroidSTOWork\\PhotoAblumLib\\PhotoAblumLib\\src\\main\\res\\layout\\activity_main.xml"
     },
     {
         "merged": "D:\\AndroidSTOWork\\PhotoAblumLib\\PhotoAblumLib\\build\\intermediates\\res\\merged\\debug\\drawable_bg_btn_selector1.xml.flat",
@@ -36,6 +44,10 @@
         "source": "D:\\AndroidSTOWork\\PhotoAblumLib\\PhotoAblumLib\\src\\main\\res\\drawable\\bg_btn_arrow_selector1.xml"
     },
     {
+        "merged": "D:\\AndroidSTOWork\\PhotoAblumLib\\PhotoAblumLib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon_takephoto.png.flat",
+        "source": "D:\\AndroidSTOWork\\PhotoAblumLib\\PhotoAblumLib\\src\\main\\res\\drawable-hdpi\\icon_takephoto.png"
+    },
+    {
         "merged": "D:\\AndroidSTOWork\\PhotoAblumLib\\PhotoAblumLib\\build\\intermediates\\res\\merged\\debug\\drawable_bg_btn_normal1.xml.flat",
         "source": "D:\\AndroidSTOWork\\PhotoAblumLib\\PhotoAblumLib\\src\\main\\res\\drawable\\bg_btn_normal1.xml"
     },
@@ -52,8 +64,16 @@
         "source": "D:\\AndroidSTOWork\\PhotoAblumLib\\PhotoAblumLib\\src\\main\\res\\layout\\list_item_dir_pop_window.xml"
     },
     {
+        "merged": "D:\\AndroidSTOWork\\PhotoAblumLib\\PhotoAblumLib\\build\\intermediates\\res\\merged\\debug\\layout_popupwindow_selector.xml.flat",
+        "source": "D:\\AndroidSTOWork\\PhotoAblumLib\\PhotoAblumLib\\src\\main\\res\\layout\\popupwindow_selector.xml"
+    },
+    {
         "merged": "D:\\AndroidSTOWork\\PhotoAblumLib\\PhotoAblumLib\\build\\intermediates\\res\\merged\\debug\\layout_actitvity_demo.xml.flat",
         "source": "D:\\AndroidSTOWork\\PhotoAblumLib\\PhotoAblumLib\\src\\main\\res\\layout\\actitvity_demo.xml"
+    },
+    {
+        "merged": "D:\\AndroidSTOWork\\PhotoAblumLib\\PhotoAblumLib\\build\\intermediates\\res\\merged\\debug\\anim_bottom_out.xml.flat",
+        "source": "D:\\AndroidSTOWork\\PhotoAblumLib\\PhotoAblumLib\\src\\main\\res\\anim\\bottom_out.xml"
     },
     {
         "merged": "D:\\AndroidSTOWork\\PhotoAblumLib\\PhotoAblumLib\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_picker_photo_filter_checked.png.flat",
@@ -64,12 +84,20 @@
         "source": "D:\\AndroidSTOWork\\PhotoAblumLib\\PhotoAblumLib\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
     },
     {
-        "merged": "D:\\AndroidSTOWork\\PhotoAblumLib\\PhotoAblumLib\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher.png.flat",
-        "source": "D:\\AndroidSTOWork\\PhotoAblumLib\\PhotoAblumLib\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+        "merged": "D:\\AndroidSTOWork\\PhotoAblumLib\\PhotoAblumLib\\build\\intermediates\\res\\merged\\debug\\anim_bottom_in.xml.flat",
+        "source": "D:\\AndroidSTOWork\\PhotoAblumLib\\PhotoAblumLib\\src\\main\\res\\anim\\bottom_in.xml"
     },
     {
         "merged": "D:\\AndroidSTOWork\\PhotoAblumLib\\PhotoAblumLib\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_img_empty.png.flat",
         "source": "D:\\AndroidSTOWork\\PhotoAblumLib\\PhotoAblumLib\\src\\main\\res\\drawable-xhdpi\\img_empty.png"
+    },
+    {
+        "merged": "D:\\AndroidSTOWork\\PhotoAblumLib\\PhotoAblumLib\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\AndroidSTOWork\\PhotoAblumLib\\PhotoAblumLib\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\AndroidSTOWork\\PhotoAblumLib\\PhotoAblumLib\\build\\intermediates\\res\\merged\\debug\\anim_left_in.xml.flat",
+        "source": "D:\\AndroidSTOWork\\PhotoAblumLib\\PhotoAblumLib\\src\\main\\res\\anim\\left_in.xml"
     },
     {
         "merged": "D:\\AndroidSTOWork\\PhotoAblumLib\\PhotoAblumLib\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_compose_photograph.png.flat",
@@ -102,5 +130,13 @@
     {
         "merged": "D:\\AndroidSTOWork\\PhotoAblumLib\\PhotoAblumLib\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_photo_check_selected.png.flat",
         "source": "D:\\AndroidSTOWork\\PhotoAblumLib\\PhotoAblumLib\\src\\main\\res\\drawable-xhdpi\\photo_check_selected.png"
+    },
+    {
+        "merged": "D:\\AndroidSTOWork\\PhotoAblumLib\\PhotoAblumLib\\build\\intermediates\\res\\merged\\debug\\anim_right_in.xml.flat",
+        "source": "D:\\AndroidSTOWork\\PhotoAblumLib\\PhotoAblumLib\\src\\main\\res\\anim\\right_in.xml"
+    },
+    {
+        "merged": "D:\\AndroidSTOWork\\PhotoAblumLib\\PhotoAblumLib\\build\\intermediates\\res\\merged\\debug\\anim_left_out.xml.flat",
+        "source": "D:\\AndroidSTOWork\\PhotoAblumLib\\PhotoAblumLib\\src\\main\\res\\anim\\left_out.xml"
     }
 ]

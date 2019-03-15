@@ -25,6 +25,14 @@ public class DemoActivity extends Activity {
 	}
 
 	/**
+	 * 照相
+	 * @param view
+	 */
+	public void takeCamera(View view){
+			Intent i = new Intent(this,CameraActivity.class);
+			startActivity(i);
+	}
+	/**
 	 * 照片选择
 	 * 
 	 * @param view
