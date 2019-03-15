@@ -32,12 +32,12 @@
         "source": "D:\\AndroidSTOWork\\PhotoAblumLib\\PhotoAblumLib\\src\\main\\res\\layout\\popwindow_img_dir.xml"
     },
     {
-        "merged": "D:\\AndroidSTOWork\\PhotoAblumLib\\PhotoAblumLib\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_navigationbar_arrow_up.png.flat",
-        "source": "D:\\AndroidSTOWork\\PhotoAblumLib\\PhotoAblumLib\\src\\main\\res\\drawable-xhdpi\\navigationbar_arrow_up.png"
-    },
-    {
         "merged": "D:\\AndroidSTOWork\\PhotoAblumLib\\PhotoAblumLib\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher.png.flat",
         "source": "D:\\AndroidSTOWork\\PhotoAblumLib\\PhotoAblumLib\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\AndroidSTOWork\\PhotoAblumLib\\PhotoAblumLib\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_navigationbar_arrow_up.png.flat",
+        "source": "D:\\AndroidSTOWork\\PhotoAblumLib\\PhotoAblumLib\\src\\main\\res\\drawable-xhdpi\\navigationbar_arrow_up.png"
     },
     {
         "merged": "D:\\AndroidSTOWork\\PhotoAblumLib\\PhotoAblumLib\\build\\intermediates\\res\\merged\\debug\\drawable_bg_btn_arrow_selector1.xml.flat",

@@ -75,17 +75,18 @@ public final class R {
     public static final int img_photo=0x7f05000b;
     public static final int img_switcher_image=0x7f05000c;
     public static final int iv=0x7f05000d;
-    public static final int lv_img_dir=0x7f05000e;
-    public static final int ly_dir=0x7f05000f;
-    public static final int ly_img_switcher=0x7f050010;
-    public static final int ly_top_bar=0x7f050011;
-    public static final int round=0x7f050012;
-    public static final int selector_list=0x7f050013;
-    public static final int tv=0x7f050014;
-    public static final int tv_currentPage=0x7f050015;
-    public static final int tv_dir_title=0x7f050016;
-    public static final int tv_top_bar_title=0x7f050017;
-    public static final int viewPager_image_switcher=0x7f050018;
+    public static final int ll_bottom=0x7f05000e;
+    public static final int lv_img_dir=0x7f05000f;
+    public static final int ly_dir=0x7f050010;
+    public static final int ly_img_switcher=0x7f050011;
+    public static final int ly_top_bar=0x7f050012;
+    public static final int round=0x7f050013;
+    public static final int selector_list=0x7f050014;
+    public static final int tv=0x7f050015;
+    public static final int tv_currentPage=0x7f050016;
+    public static final int tv_dir_title=0x7f050017;
+    public static final int tv_top_bar_title=0x7f050018;
+    public static final int viewPager_image_switcher=0x7f050019;
   }
   public static final class layout {
     public static final int actitvity_demo=0x7f060000;

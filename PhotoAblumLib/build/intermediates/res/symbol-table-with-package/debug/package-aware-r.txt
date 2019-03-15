@@ -39,6 +39,7 @@ id img_dir_header
 id img_photo
 id img_switcher_image
 id iv
+id ll_bottom
 id lv_img_dir
 id ly_dir
 id ly_img_switcher
