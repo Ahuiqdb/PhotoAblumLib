@@ -5,32 +5,45 @@
     build-mode="COLD"
     density="hdpi"
     format="10"
+    ir-eligibility="R_CLASS_CHANGE"
     plugin-version="3.3.1"
-    timestamp="1552640200828"
+    timestamp="1552993101516"
     token="-5829504904243960505"
     verifier="COLD_SWAP_REQUESTED" >
 
     <task
         name="javac"
-        duration="0" />
+        duration="2844" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="0" />
+        duration="352" />
     <task
         name="verifier"
-        duration="0" />
+        duration="347" />
 
+    <artifact
+        location="D:\AndroidSTOWork\PhotoAblumLib\PhotoAblumLib\build\intermediates\split-apk\debug\slices\slice_6.apk"
+        type="SPLIT" />
+    <artifact
+        location="D:\AndroidSTOWork\PhotoAblumLib\PhotoAblumLib\build\intermediates\split-apk\debug\slices\slice_1.apk"
+        type="SPLIT" />
+    <artifact
+        location="D:\AndroidSTOWork\PhotoAblumLib\PhotoAblumLib\build\intermediates\split-apk\debug\slices\slice_7.apk"
+        type="SPLIT" />
     <artifact
         location="D:\AndroidSTOWork\PhotoAblumLib\PhotoAblumLib\build\intermediates\instant-run-apk\debug\PhotoAblumLib-debug.apk"
         type="SPLIT_MAIN" />
 
     <build
         build-mode="FULL"
-        timestamp="1552638987230"
+        timestamp="1552992749034"
         verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="D:\AndroidSTOWork\PhotoAblumLib\PhotoAblumLib\build\intermediates\instant-run-apk\debug\PhotoAblumLib-debug.apk"
+            type="SPLIT_MAIN" />
         <artifact
             location="D:\AndroidSTOWork\PhotoAblumLib\PhotoAblumLib\build\intermediates\split-apk\debug\slices\slice_1.apk"
             type="SPLIT" />
@@ -64,14 +77,11 @@
         <artifact
             location="D:\AndroidSTOWork\PhotoAblumLib\PhotoAblumLib\build\intermediates\split-apk\debug\slices\slice_5.apk"
             type="SPLIT" />
-        <artifact
-            location="D:\AndroidSTOWork\PhotoAblumLib\PhotoAblumLib\build\intermediates\instant-run-apk\debug\PhotoAblumLib-debug.apk"
-            type="SPLIT_MAIN" />
     </build>
     <build
         build-mode="COLD"
         ir-eligibility="R_CLASS_CHANGE"
-        timestamp="1552639298840"
+        timestamp="1552993101516"
         verifier="COLD_SWAP_REQUESTED" >
         <artifact
             location="D:\AndroidSTOWork\PhotoAblumLib\PhotoAblumLib\build\intermediates\split-apk\debug\slices\slice_6.apk"
@@ -82,11 +92,6 @@
         <artifact
             location="D:\AndroidSTOWork\PhotoAblumLib\PhotoAblumLib\build\intermediates\split-apk\debug\slices\slice_7.apk"
             type="SPLIT" />
-    </build>
-    <build
-        build-mode="COLD"
-        timestamp="1552640200828"
-        verifier="COLD_SWAP_REQUESTED" >
         <artifact
             location="D:\AndroidSTOWork\PhotoAblumLib\PhotoAblumLib\build\intermediates\instant-run-apk\debug\PhotoAblumLib-debug.apk"
             type="SPLIT_MAIN" />

@@ -1,47 +1,19 @@
 [
     {
-        "merged": "D:\\AndroidSTOWork\\PhotoAblumLib\\PhotoAblumLib\\build\\intermediates\\res\\merged\\debug\\anim_right_out.xml.flat",
-        "source": "D:\\AndroidSTOWork\\PhotoAblumLib\\PhotoAblumLib\\src\\main\\res\\anim\\right_out.xml"
-    },
-    {
-        "merged": "D:\\AndroidSTOWork\\PhotoAblumLib\\PhotoAblumLib\\build\\intermediates\\res\\merged\\debug\\layout_activity_image_switcher.xml.flat",
-        "source": "D:\\AndroidSTOWork\\PhotoAblumLib\\PhotoAblumLib\\src\\main\\res\\layout\\activity_image_switcher.xml"
-    },
-    {
-        "merged": "D:\\AndroidSTOWork\\PhotoAblumLib\\PhotoAblumLib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
-        "source": "D:\\AndroidSTOWork\\PhotoAblumLib\\PhotoAblumLib\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
-    },
-    {
         "merged": "D:\\AndroidSTOWork\\PhotoAblumLib\\PhotoAblumLib\\build\\intermediates\\res\\merged\\debug\\drawable_checkbox_btn_selector1.xml.flat",
         "source": "D:\\AndroidSTOWork\\PhotoAblumLib\\PhotoAblumLib\\src\\main\\res\\drawable\\checkbox_btn_selector1.xml"
-    },
-    {
-        "merged": "D:\\AndroidSTOWork\\PhotoAblumLib\\PhotoAblumLib\\build\\intermediates\\res\\merged\\debug\\layout_grid_item_photo.xml.flat",
-        "source": "D:\\AndroidSTOWork\\PhotoAblumLib\\PhotoAblumLib\\src\\main\\res\\layout\\grid_item_photo.xml"
     },
     {
         "merged": "D:\\AndroidSTOWork\\PhotoAblumLib\\PhotoAblumLib\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
         "source": "D:\\AndroidSTOWork\\PhotoAblumLib\\PhotoAblumLib\\src\\main\\res\\layout\\activity_main.xml"
     },
     {
-        "merged": "D:\\AndroidSTOWork\\PhotoAblumLib\\PhotoAblumLib\\build\\intermediates\\res\\merged\\debug\\drawable_bg_btn_selector1.xml.flat",
-        "source": "D:\\AndroidSTOWork\\PhotoAblumLib\\PhotoAblumLib\\src\\main\\res\\drawable\\bg_btn_selector1.xml"
+        "merged": "D:\\AndroidSTOWork\\PhotoAblumLib\\PhotoAblumLib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_jiguang_socialize_copy.png.flat",
+        "source": "D:\\AndroidSTOWork\\PhotoAblumLib\\PhotoAblumLib\\src\\main\\res\\drawable-hdpi\\jiguang_socialize_copy.png"
     },
     {
         "merged": "D:\\AndroidSTOWork\\PhotoAblumLib\\PhotoAblumLib\\build\\intermediates\\res\\merged\\debug\\layout_popwindow_img_dir.xml.flat",
         "source": "D:\\AndroidSTOWork\\PhotoAblumLib\\PhotoAblumLib\\src\\main\\res\\layout\\popwindow_img_dir.xml"
-    },
-    {
-        "merged": "D:\\AndroidSTOWork\\PhotoAblumLib\\PhotoAblumLib\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher.png.flat",
-        "source": "D:\\AndroidSTOWork\\PhotoAblumLib\\PhotoAblumLib\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
-    },
-    {
-        "merged": "D:\\AndroidSTOWork\\PhotoAblumLib\\PhotoAblumLib\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_navigationbar_arrow_up.png.flat",
-        "source": "D:\\AndroidSTOWork\\PhotoAblumLib\\PhotoAblumLib\\src\\main\\res\\drawable-xhdpi\\navigationbar_arrow_up.png"
-    },
-    {
-        "merged": "D:\\AndroidSTOWork\\PhotoAblumLib\\PhotoAblumLib\\build\\intermediates\\res\\merged\\debug\\drawable_bg_btn_arrow_selector1.xml.flat",
-        "source": "D:\\AndroidSTOWork\\PhotoAblumLib\\PhotoAblumLib\\src\\main\\res\\drawable\\bg_btn_arrow_selector1.xml"
     },
     {
         "merged": "D:\\AndroidSTOWork\\PhotoAblumLib\\PhotoAblumLib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon_takephoto.png.flat",
@@ -50,6 +22,10 @@
     {
         "merged": "D:\\AndroidSTOWork\\PhotoAblumLib\\PhotoAblumLib\\build\\intermediates\\res\\merged\\debug\\drawable_bg_btn_normal1.xml.flat",
         "source": "D:\\AndroidSTOWork\\PhotoAblumLib\\PhotoAblumLib\\src\\main\\res\\drawable\\bg_btn_normal1.xml"
+    },
+    {
+        "merged": "D:\\AndroidSTOWork\\PhotoAblumLib\\PhotoAblumLib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_jiguang_socialize_facebook.png.flat",
+        "source": "D:\\AndroidSTOWork\\PhotoAblumLib\\PhotoAblumLib\\src\\main\\res\\drawable-hdpi\\jiguang_socialize_facebook.png"
     },
     {
         "merged": "D:\\AndroidSTOWork\\PhotoAblumLib\\PhotoAblumLib\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_compose_photo_photograph.png.flat",
@@ -64,36 +40,32 @@
         "source": "D:\\AndroidSTOWork\\PhotoAblumLib\\PhotoAblumLib\\src\\main\\res\\layout\\list_item_dir_pop_window.xml"
     },
     {
-        "merged": "D:\\AndroidSTOWork\\PhotoAblumLib\\PhotoAblumLib\\build\\intermediates\\res\\merged\\debug\\layout_popupwindow_selector.xml.flat",
-        "source": "D:\\AndroidSTOWork\\PhotoAblumLib\\PhotoAblumLib\\src\\main\\res\\layout\\popupwindow_selector.xml"
+        "merged": "D:\\AndroidSTOWork\\PhotoAblumLib\\PhotoAblumLib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_jiguang_socialize_cp_link.png.flat",
+        "source": "D:\\AndroidSTOWork\\PhotoAblumLib\\PhotoAblumLib\\src\\main\\res\\drawable-hdpi\\jiguang_socialize_cp_link.png"
+    },
+    {
+        "merged": "D:\\AndroidSTOWork\\PhotoAblumLib\\PhotoAblumLib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_jiguang_socialize_sina.png.flat",
+        "source": "D:\\AndroidSTOWork\\PhotoAblumLib\\PhotoAblumLib\\src\\main\\res\\drawable-hdpi\\jiguang_socialize_sina.png"
     },
     {
         "merged": "D:\\AndroidSTOWork\\PhotoAblumLib\\PhotoAblumLib\\build\\intermediates\\res\\merged\\debug\\layout_actitvity_demo.xml.flat",
         "source": "D:\\AndroidSTOWork\\PhotoAblumLib\\PhotoAblumLib\\src\\main\\res\\layout\\actitvity_demo.xml"
     },
     {
-        "merged": "D:\\AndroidSTOWork\\PhotoAblumLib\\PhotoAblumLib\\build\\intermediates\\res\\merged\\debug\\anim_bottom_out.xml.flat",
-        "source": "D:\\AndroidSTOWork\\PhotoAblumLib\\PhotoAblumLib\\src\\main\\res\\anim\\bottom_out.xml"
-    },
-    {
-        "merged": "D:\\AndroidSTOWork\\PhotoAblumLib\\PhotoAblumLib\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_picker_photo_filter_checked.png.flat",
-        "source": "D:\\AndroidSTOWork\\PhotoAblumLib\\PhotoAblumLib\\src\\main\\res\\drawable-xhdpi\\picker_photo_filter_checked.png"
+        "merged": "D:\\AndroidSTOWork\\PhotoAblumLib\\PhotoAblumLib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_jiguang_socialize_wechat.png.flat",
+        "source": "D:\\AndroidSTOWork\\PhotoAblumLib\\PhotoAblumLib\\src\\main\\res\\drawable-hdpi\\jiguang_socialize_wechat.png"
     },
     {
         "merged": "D:\\AndroidSTOWork\\PhotoAblumLib\\PhotoAblumLib\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher.png.flat",
         "source": "D:\\AndroidSTOWork\\PhotoAblumLib\\PhotoAblumLib\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
     },
     {
+        "merged": "D:\\AndroidSTOWork\\PhotoAblumLib\\PhotoAblumLib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_jiguang_socialize_twitter.png.flat",
+        "source": "D:\\AndroidSTOWork\\PhotoAblumLib\\PhotoAblumLib\\src\\main\\res\\drawable-hdpi\\jiguang_socialize_twitter.png"
+    },
+    {
         "merged": "D:\\AndroidSTOWork\\PhotoAblumLib\\PhotoAblumLib\\build\\intermediates\\res\\merged\\debug\\anim_bottom_in.xml.flat",
         "source": "D:\\AndroidSTOWork\\PhotoAblumLib\\PhotoAblumLib\\src\\main\\res\\anim\\bottom_in.xml"
-    },
-    {
-        "merged": "D:\\AndroidSTOWork\\PhotoAblumLib\\PhotoAblumLib\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_img_empty.png.flat",
-        "source": "D:\\AndroidSTOWork\\PhotoAblumLib\\PhotoAblumLib\\src\\main\\res\\drawable-xhdpi\\img_empty.png"
-    },
-    {
-        "merged": "D:\\AndroidSTOWork\\PhotoAblumLib\\PhotoAblumLib\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher.png.flat",
-        "source": "D:\\AndroidSTOWork\\PhotoAblumLib\\PhotoAblumLib\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
     },
     {
         "merged": "D:\\AndroidSTOWork\\PhotoAblumLib\\PhotoAblumLib\\build\\intermediates\\res\\merged\\debug\\anim_left_in.xml.flat",
@@ -104,12 +76,112 @@
         "source": "D:\\AndroidSTOWork\\PhotoAblumLib\\PhotoAblumLib\\src\\main\\res\\drawable-xhdpi\\compose_photograph.png"
     },
     {
+        "merged": "D:\\AndroidSTOWork\\PhotoAblumLib\\PhotoAblumLib\\build\\intermediates\\res\\merged\\debug\\layout_fragment_image_switcher.xml.flat",
+        "source": "D:\\AndroidSTOWork\\PhotoAblumLib\\PhotoAblumLib\\src\\main\\res\\layout\\fragment_image_switcher.xml"
+    },
+    {
+        "merged": "D:\\AndroidSTOWork\\PhotoAblumLib\\PhotoAblumLib\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_navigationbar_arrow_down.png.flat",
+        "source": "D:\\AndroidSTOWork\\PhotoAblumLib\\PhotoAblumLib\\src\\main\\res\\drawable-xhdpi\\navigationbar_arrow_down.png"
+    },
+    {
+        "merged": "D:\\AndroidSTOWork\\PhotoAblumLib\\PhotoAblumLib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_jiguang_socialize_qq.png.flat",
+        "source": "D:\\AndroidSTOWork\\PhotoAblumLib\\PhotoAblumLib\\src\\main\\res\\drawable-hdpi\\jiguang_socialize_qq.png"
+    },
+    {
+        "merged": "D:\\AndroidSTOWork\\PhotoAblumLib\\PhotoAblumLib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_jiguang_socialize_qzone.png.flat",
+        "source": "D:\\AndroidSTOWork\\PhotoAblumLib\\PhotoAblumLib\\src\\main\\res\\drawable-hdpi\\jiguang_socialize_qzone.png"
+    },
+    {
+        "merged": "D:\\AndroidSTOWork\\PhotoAblumLib\\PhotoAblumLib\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_photo_check_selected.png.flat",
+        "source": "D:\\AndroidSTOWork\\PhotoAblumLib\\PhotoAblumLib\\src\\main\\res\\drawable-xhdpi\\photo_check_selected.png"
+    },
+    {
+        "merged": "D:\\AndroidSTOWork\\PhotoAblumLib\\PhotoAblumLib\\build\\intermediates\\res\\merged\\debug\\anim_right_in.xml.flat",
+        "source": "D:\\AndroidSTOWork\\PhotoAblumLib\\PhotoAblumLib\\src\\main\\res\\anim\\right_in.xml"
+    },
+    {
+        "merged": "D:\\AndroidSTOWork\\PhotoAblumLib\\PhotoAblumLib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon_jiguang.png.flat",
+        "source": "D:\\AndroidSTOWork\\PhotoAblumLib\\PhotoAblumLib\\src\\main\\res\\drawable-hdpi\\icon_jiguang.png"
+    },
+    {
+        "merged": "D:\\AndroidSTOWork\\PhotoAblumLib\\PhotoAblumLib\\build\\intermediates\\res\\merged\\debug\\anim_right_out.xml.flat",
+        "source": "D:\\AndroidSTOWork\\PhotoAblumLib\\PhotoAblumLib\\src\\main\\res\\anim\\right_out.xml"
+    },
+    {
+        "merged": "D:\\AndroidSTOWork\\PhotoAblumLib\\PhotoAblumLib\\build\\intermediates\\res\\merged\\debug\\layout_activity_image_switcher.xml.flat",
+        "source": "D:\\AndroidSTOWork\\PhotoAblumLib\\PhotoAblumLib\\src\\main\\res\\layout\\activity_image_switcher.xml"
+    },
+    {
+        "merged": "D:\\AndroidSTOWork\\PhotoAblumLib\\PhotoAblumLib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "D:\\AndroidSTOWork\\PhotoAblumLib\\PhotoAblumLib\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\AndroidSTOWork\\PhotoAblumLib\\PhotoAblumLib\\build\\intermediates\\res\\merged\\debug\\layout_grid_item_photo.xml.flat",
+        "source": "D:\\AndroidSTOWork\\PhotoAblumLib\\PhotoAblumLib\\src\\main\\res\\layout\\grid_item_photo.xml"
+    },
+    {
+        "merged": "D:\\AndroidSTOWork\\PhotoAblumLib\\PhotoAblumLib\\build\\intermediates\\res\\merged\\debug\\drawable_bg_btn_selector1.xml.flat",
+        "source": "D:\\AndroidSTOWork\\PhotoAblumLib\\PhotoAblumLib\\src\\main\\res\\drawable\\bg_btn_selector1.xml"
+    },
+    {
+        "merged": "D:\\AndroidSTOWork\\PhotoAblumLib\\PhotoAblumLib\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_navigationbar_arrow_up.png.flat",
+        "source": "D:\\AndroidSTOWork\\PhotoAblumLib\\PhotoAblumLib\\src\\main\\res\\drawable-xhdpi\\navigationbar_arrow_up.png"
+    },
+    {
+        "merged": "D:\\AndroidSTOWork\\PhotoAblumLib\\PhotoAblumLib\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\AndroidSTOWork\\PhotoAblumLib\\PhotoAblumLib\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\AndroidSTOWork\\PhotoAblumLib\\PhotoAblumLib\\build\\intermediates\\res\\merged\\debug\\drawable_bg_btn_arrow_selector1.xml.flat",
+        "source": "D:\\AndroidSTOWork\\PhotoAblumLib\\PhotoAblumLib\\src\\main\\res\\drawable\\bg_btn_arrow_selector1.xml"
+    },
+    {
+        "merged": "D:\\AndroidSTOWork\\PhotoAblumLib\\PhotoAblumLib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_jiguang_socialize_messenger.png.flat",
+        "source": "D:\\AndroidSTOWork\\PhotoAblumLib\\PhotoAblumLib\\src\\main\\res\\drawable-hdpi\\jiguang_socialize_messenger.png"
+    },
+    {
+        "merged": "D:\\AndroidSTOWork\\PhotoAblumLib\\PhotoAblumLib\\build\\intermediates\\res\\merged\\debug\\layout_popupwindow_selector.xml.flat",
+        "source": "D:\\AndroidSTOWork\\PhotoAblumLib\\PhotoAblumLib\\src\\main\\res\\layout\\popupwindow_selector.xml"
+    },
+    {
+        "merged": "D:\\AndroidSTOWork\\PhotoAblumLib\\PhotoAblumLib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_jiguang_socialize_copyurl.png.flat",
+        "source": "D:\\AndroidSTOWork\\PhotoAblumLib\\PhotoAblumLib\\src\\main\\res\\drawable-hdpi\\jiguang_socialize_copyurl.png"
+    },
+    {
+        "merged": "D:\\AndroidSTOWork\\PhotoAblumLib\\PhotoAblumLib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_jiguang_socialize_wxfavorite.png.flat",
+        "source": "D:\\AndroidSTOWork\\PhotoAblumLib\\PhotoAblumLib\\src\\main\\res\\drawable-hdpi\\jiguang_socialize_wxfavorite.png"
+    },
+    {
+        "merged": "D:\\AndroidSTOWork\\PhotoAblumLib\\PhotoAblumLib\\build\\intermediates\\res\\merged\\debug\\anim_bottom_out.xml.flat",
+        "source": "D:\\AndroidSTOWork\\PhotoAblumLib\\PhotoAblumLib\\src\\main\\res\\anim\\bottom_out.xml"
+    },
+    {
+        "merged": "D:\\AndroidSTOWork\\PhotoAblumLib\\PhotoAblumLib\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_picker_photo_filter_checked.png.flat",
+        "source": "D:\\AndroidSTOWork\\PhotoAblumLib\\PhotoAblumLib\\src\\main\\res\\drawable-xhdpi\\picker_photo_filter_checked.png"
+    },
+    {
+        "merged": "D:\\AndroidSTOWork\\PhotoAblumLib\\PhotoAblumLib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_jiguang_test_img.png.flat",
+        "source": "D:\\AndroidSTOWork\\PhotoAblumLib\\PhotoAblumLib\\src\\main\\res\\drawable-hdpi\\jiguang_test_img.png"
+    },
+    {
+        "merged": "D:\\AndroidSTOWork\\PhotoAblumLib\\PhotoAblumLib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_jiguang_socialize_wxcircle.png.flat",
+        "source": "D:\\AndroidSTOWork\\PhotoAblumLib\\PhotoAblumLib\\src\\main\\res\\drawable-hdpi\\jiguang_socialize_wxcircle.png"
+    },
+    {
+        "merged": "D:\\AndroidSTOWork\\PhotoAblumLib\\PhotoAblumLib\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_img_empty.png.flat",
+        "source": "D:\\AndroidSTOWork\\PhotoAblumLib\\PhotoAblumLib\\src\\main\\res\\drawable-xhdpi\\img_empty.png"
+    },
+    {
+        "merged": "D:\\AndroidSTOWork\\PhotoAblumLib\\PhotoAblumLib\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\AndroidSTOWork\\PhotoAblumLib\\PhotoAblumLib\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
         "merged": "D:\\AndroidSTOWork\\PhotoAblumLib\\PhotoAblumLib\\build\\intermediates\\res\\merged\\debug\\layout_activity_photo_selector.xml.flat",
         "source": "D:\\AndroidSTOWork\\PhotoAblumLib\\PhotoAblumLib\\src\\main\\res\\layout\\activity_photo_selector.xml"
     },
     {
-        "merged": "D:\\AndroidSTOWork\\PhotoAblumLib\\PhotoAblumLib\\build\\intermediates\\res\\merged\\debug\\layout_fragment_image_switcher.xml.flat",
-        "source": "D:\\AndroidSTOWork\\PhotoAblumLib\\PhotoAblumLib\\src\\main\\res\\layout\\fragment_image_switcher.xml"
+        "merged": "D:\\AndroidSTOWork\\PhotoAblumLib\\PhotoAblumLib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_jiguang_socialize_menu_default.png.flat",
+        "source": "D:\\AndroidSTOWork\\PhotoAblumLib\\PhotoAblumLib\\src\\main\\res\\drawable-hdpi\\jiguang_socialize_menu_default.png"
     },
     {
         "merged": "D:\\AndroidSTOWork\\PhotoAblumLib\\PhotoAblumLib\\build\\intermediates\\res\\merged\\debug\\drawable_bg_btn_selected1.xml.flat",
@@ -120,20 +192,12 @@
         "source": "D:\\AndroidSTOWork\\PhotoAblumLib\\PhotoAblumLib\\src\\main\\res\\layout\\item_image_switcher.xml"
     },
     {
+        "merged": "D:\\AndroidSTOWork\\PhotoAblumLib\\PhotoAblumLib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_camera_bg.png.flat",
+        "source": "D:\\AndroidSTOWork\\PhotoAblumLib\\PhotoAblumLib\\src\\main\\res\\drawable-hdpi\\camera_bg.png"
+    },
+    {
         "merged": "D:\\AndroidSTOWork\\PhotoAblumLib\\PhotoAblumLib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher1.png.flat",
         "source": "D:\\AndroidSTOWork\\PhotoAblumLib\\PhotoAblumLib\\src\\main\\res\\drawable-hdpi\\ic_launcher1.png"
-    },
-    {
-        "merged": "D:\\AndroidSTOWork\\PhotoAblumLib\\PhotoAblumLib\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_navigationbar_arrow_down.png.flat",
-        "source": "D:\\AndroidSTOWork\\PhotoAblumLib\\PhotoAblumLib\\src\\main\\res\\drawable-xhdpi\\navigationbar_arrow_down.png"
-    },
-    {
-        "merged": "D:\\AndroidSTOWork\\PhotoAblumLib\\PhotoAblumLib\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_photo_check_selected.png.flat",
-        "source": "D:\\AndroidSTOWork\\PhotoAblumLib\\PhotoAblumLib\\src\\main\\res\\drawable-xhdpi\\photo_check_selected.png"
-    },
-    {
-        "merged": "D:\\AndroidSTOWork\\PhotoAblumLib\\PhotoAblumLib\\build\\intermediates\\res\\merged\\debug\\anim_right_in.xml.flat",
-        "source": "D:\\AndroidSTOWork\\PhotoAblumLib\\PhotoAblumLib\\src\\main\\res\\anim\\right_in.xml"
     },
     {
         "merged": "D:\\AndroidSTOWork\\PhotoAblumLib\\PhotoAblumLib\\build\\intermediates\\res\\merged\\debug\\anim_left_out.xml.flat",
